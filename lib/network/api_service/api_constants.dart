@@ -1,5 +1,5 @@
 /// Base Url
-const String BASE_URL = "http://192.168.100.21:8000/api";
+const String BASE_URL = "http://placeHolder/api";
 
 /// Urls with End points
 const String LOGIN_URL = "$BASE_URL/login";
